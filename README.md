@@ -65,8 +65,10 @@ Full-Stack HR Management System.
 
 ### OnlineMart
 Full-Stack E-commerce Website — currently in development.
+### 🛒 OnlineMart — Full-Stack E-Commerce Platform
 
-- [GitHub Repository](https://github.com/Mustafa-Wahid1/Online-Mart)
+- **Live Demo:** [View OnlineMart](https://online-mart-pi.vercel.app/)
+- **GitHub Repository:** [OnlineMart](https://github.com/Mustafa-Wahid1/Online-Mart)
 
 ## Other Projects
 
